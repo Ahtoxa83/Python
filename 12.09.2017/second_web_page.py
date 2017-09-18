@@ -70,4 +70,4 @@ def take_n_view(your_turn):
     """<p style="font-style: italic;"><br/>
     <a href="/start/">Начать сначала!</a></p>""")
     
-run()
+run(host='localhost', port=8080)
